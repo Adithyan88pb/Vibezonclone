@@ -1,0 +1,213 @@
+@font-face {
+  font-family: "HelveticaNeued";
+  src: url("../fonts/HelveticaNeueLTW1G-Bd.woff2") format("woff2"), url("../fonts/HelveticaNeueLTW1G-Bd.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HelveticaNeued";
+  src: url("../fonts/HelveticaNeueLTW1G-Md.woff2") format("woff2"), url("../fonts/HelveticaNeueLTW1G-Md.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HelveticaNeued";
+  src: url("../fonts/HelveticaNeueLTW1G-Roman.woff2") format("woff2"), url("../fonts/HelveticaNeueLTW1G-Roman.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.slidimage-sec {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.popular-sec .popular-text-area .card {
+  background-color: rgba(180, 186, 183, 0);
+  border: none;
+}
+.popular-sec .popular-text-area .card h6 {
+  font-size: 13px;
+}
+.popular-sec .popular-text-area .card a {
+  color: #fafafa;
+}
+.popular-sec .popular-text-area .card .btn1 {
+  color: black;
+}
+.popular-sec .popular-text-area .card img {
+  transition: transform 0.3s;
+}
+.popular-sec .popular-text-area .card img:hover { /* IE 9 */ /* Safari 3-8 */
+  transform: scale(1.1);
+}
+.popular-sec .popular-text-area .btn {
+  border-radius: 50px;
+}
+.popular-sec .popular-text-area .link1 {
+  padding-right: 10px;
+}
+.popular-sec .popular-text-area .popular-text-area-main {
+  margin-top: 46px;
+  margin-bottom: 53px;
+}
+
+.ia {
+  margin-top: 107px;
+  background-color: #141414;
+  background-image: url(https://thevibezon.com/wp-content/uploads/2022/06/vz-footer.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-container .main-footer-area {
+  margin-top: 47px;
+}
+.main-container .main-footer-area .NEED-help-area {
+  line-height: 45px;
+  margin-right: 90px;
+}
+.main-container .main-footer-area .NEED-help-area a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.main-container .main-footer-area .get-help-area {
+  padding: 0 10px;
+  line-height: 45px;
+}
+.main-container .main-footer-area .get-help-area a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.main-container .main-footer-area .image-vibzon {
+  margin-left: 380px;
+  width: 181px;
+}
+
+.landing-sec .text1 {
+  margin-top: 49px;
+}
+.landing-sec .text-aera {
+  font-family: "Inter", Sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  line-height: 52px;
+  margin-top: 57px;
+}
+
+.NEWARRIVALS-sec .NEWARRIVALS-card .card {
+  background-color: rgba(180, 186, 183, 0);
+  border: none;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .card h6 {
+  font-size: 13px;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .card a {
+  color: #fafafa;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .card .btn1 {
+  color: black;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .card img {
+  transition: transform 0.3s;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .card img:hover { /* IE 9 */ /* Safari 3-8 */
+  transform: scale(1.1);
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .btn {
+  border-radius: 50px;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .link1 {
+  padding-right: 10px;
+}
+.NEWARRIVALS-sec .NEWARRIVALS-card .new-text-area {
+  margin-top: 46px;
+  margin-bottom: 53px;
+}
+
+.SHOP-CATEGORIES-sec .shop-image-sec {
+  margin-top: 80px;
+}
+.SHOP-CATEGORIES-sec .row1 .image1 {
+  padding-left: 130px;
+}
+.SHOP-CATEGORIES-sec .row2 {
+  padding-top: 30px;
+}
+.SHOP-CATEGORIES-sec .row2 .image1 {
+  padding-left: 130px;
+}
+
+.topbar {
+  background-color: rgb(0, 0, 0);
+  padding: 7px 0;
+  color: #fff;
+}
+.topbar .wostify-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: medium;
+}
+.topbar .wostify-container .topbar-item {
+  font-size: 17px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: rgba(180, 186, 183, 0.0784313725);
+}
+
+header .navbar .image-main {
+  max-width: 70px;
+}
+header .navbar-main {
+  margin-left: 457px;
+}
+header .navbar-main ul {
+  margin: 0 -241px;
+}
+header .navbar-main .row {
+  margin-left: 15px;
+}
+header .navbar-main .row .link1 {
+  margin: 0 6px;
+  font-size: 21px;
+}
+header .navbar-main .nav-item {
+  margin: 0 9px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landing-sec .text-aera .btn1 {
+  background-color: rgba(4, 5, 5, 0.927);
+  width: 156px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 15px;
+}
+.landing-sec .text-aera .b1tn234 {
+  width: 156px;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+.landing-sec .text-aera .b1tn234:hover {
+  background-color: black;
+  color: #fff;
+}
+.landing-sec .text-aera .link2 {
+  margin-right: 10px;
+}/*# sourceMappingURL=main.css.map */

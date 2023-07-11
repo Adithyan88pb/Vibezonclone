@@ -1,0 +1,37 @@
+.popular-sec {
+    .popular-text-area {
+      .card {
+        background-color: #b4bab700;
+        border: none;
+        
+        h6 {
+          font-size: 13px;
+        }
+        a{
+          color: #fafafa;
+        }
+        .btn1{
+        color: black;
+       }
+       img{
+        transition: transform 0.3s;
+        &:hover {
+          -ms-transform: scale(1.1); /* IE 9 */
+          -webkit-transform: scale(1.1); /* Safari 3-8 */
+          transform: scale(1.1); 
+        }
+       }
+      }
+      .btn{
+        border-radius: 50px;
+       }
+      .link1{
+        padding-right: 10px;
+     }
+     .popular-text-area-main{
+      margin-top: 46px;
+      margin-bottom: 53px;
+     }
+    }
+  }
+  
